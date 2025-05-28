@@ -14,6 +14,53 @@
             <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/VistaLogin.java</file>
             <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/modelo/Insert_CSV.java</file>
             <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/modelo/conexion.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/controlador/ControlRegistroCliente.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/controlador/ControlRegistroDestino.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/controlador/controlClaseVuelo.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/controlador/controlCrono.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/controlador/controlNumVuelo.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/controlador/controlRegistro.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/controlador/controlTipoMaleta.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/modelo/modeloClaseVuelo.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/modelo/modeloCliente.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/modelo/modeloCrono.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/modelo/modeloDest.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/modelo/modeloNumVuelo.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/modelo/modeloTipoMaleta.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/ClaseDeVuelo.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/CrearUsuarios.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/Cronograma.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/NumVuelo.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/Registro.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/RegistroCliente.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/RegistroDestino.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/Utilidades.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/controlador/controlListCli.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/controlador/controlListDest.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/controlador/controlListaGeneral.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/controlador/controlListados.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/modelo/ModeloConsultaCedula.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/modelo/ModeloConsultaCiudad.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/modelo/ModeloConsultaClaseVuelo.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/modelo/ModeloConsultaEdad.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/modelo/ModeloConsultaMaleta.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/modelo/ModeloConsultaPais.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/modelo/ModeloConsultaVuelo.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/Consultas.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/controlador/controlConsultas.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/ListaClientes.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/ListaDest.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/ListaGeneral.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/Listados.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/VistaConsultaCedula.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/VistaConsultaCiudad.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/VistaConsultaClaseVuelo.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/VistaConsultaEdad.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/VistaConsultaMaleta.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/VistaConsultaPais.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/VistaConsultaVuelo.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/modelo/modeloTabla.java</file>
+            <file>file:/D:/Users/OSCAR/Desktop/DESARROLLO%201/ReservaDeVuelos/src/vista/TipoMaleta.java</file>
         </group>
     </open-files>
 </project-private>

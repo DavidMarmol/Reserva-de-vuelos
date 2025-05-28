@@ -130,21 +130,21 @@ public class menu extends JFrame{
         public AcercaDeDialog(JFrame parent, boolean modal) {
             super(parent, modal);
             setTitle("Info. Programadores");
-            setSize(550, 200);
+            setSize(570, 200);
             setLocationRelativeTo(parent);
 
             JLabel imagen1 = new JLabel(new ImageIcon(getClass().getResource("/imagenes/img7.png")));
             JLabel nombre1 = new JLabel("Oscar Jimenez - "); 
-            JLabel correo1 = new JLabel("oscar.eduardo.jimenez@correounivalle.edu.co - 2264419                      ");
+            JLabel correo1 = new JLabel("oscar.eduardo.jimenez@correounivalle.edu.co - 2264419                                ");
            
 
             JLabel imagen2 = new JLabel(new ImageIcon(getClass().getResource("/imagenes/img8.png")));
             JLabel nombre2 = new JLabel("Juan Pablo Ochoa -");
-            JLabel correo2 = new JLabel("juan.ochoa.alvarez@correounivalle.edu.co - 2559894                                          ");
+            JLabel correo2 = new JLabel("juan.ochoa.alvarez@correounivalle.edu.co - 2559894                               ");
 
             JLabel imagen3 = new JLabel(new ImageIcon(getClass().getResource("/imagenes/avatar.png")));
             JLabel nombre3 = new JLabel("Juan Alejandro Jimenez - ");
-            JLabel correo3 = new JLabel("Juan.alejandro.jimenez@correounivalle.edu.co - 2266096                                   ");
+            JLabel correo3 = new JLabel("Juan.alejandro.jimenez@correounivalle.edu.co - 2266096                                            ");
 
             JLabel imagen4 = new JLabel(new ImageIcon(getClass().getResource("/imagenes/img9.png")));
             JLabel nombre4 = new JLabel("Jose David Marmol - ");

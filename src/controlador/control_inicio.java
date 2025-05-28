@@ -2,6 +2,7 @@ package controlador;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import vista.CrearUsuarios;
 import vista.VistaInicio;
 
 /**
@@ -25,7 +26,7 @@ public class control_inicio implements ActionListener{
         if(e.getSource() == vi.jbCrear){
             vi.setVisible(false); // Oculta la ventana actual
             vi.dispose(); // Libera los recursos de la ventana actual
-           
+            CrearUsuarios cre = new CrearUsuarios(); // Crea una nueva instancia de la ventana de creación de usuarios
         }
         
         // Acción al presionar el botón "Salir"
