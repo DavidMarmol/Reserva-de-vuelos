@@ -6,7 +6,7 @@ Los datos se cargan desde el archivo CSV y se muestran en la tabla.
 
 package vista;
 
-import utilerias.Utilidades;
+import Utilerias.Utilidades;
 import controlador.controlListaGeneral;
 import java.awt.Color;
 import java.io.BufferedReader;

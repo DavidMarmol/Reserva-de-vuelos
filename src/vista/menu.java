@@ -18,7 +18,7 @@ Versión: 1.0
 
 package vista;
 
-import utilerias.Utilidades;
+import Utilerias.Utilidades;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -28,6 +28,7 @@ import java.awt.Font;
 import java.awt.Image;
 import javax.swing.JDialog;
 import javax.swing.JPanel;
+import static javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE;
 import reservadevuelos.ReservaDeVuelos;
 
 /**
@@ -100,6 +101,11 @@ public class menu extends JFrame{
         jbConsultas.addActionListener(ctr);
         add(jbConsultas);
         
+        ImageIcon icon = new ImageIcon(getClass().getResource("/imagenes/graf.png"));
+        jbGraficas = Utilidades.botones(190, 230, 120, 40, "Graficas");
+        jbGraficas.setIcon(icon);
+        jbGraficas.addActionListener(ctr);
+        add(jbGraficas);
         
         ImageIcon icon4 = new ImageIcon(getClass().getResource("/imagenes/info.png"));
         jbInfo = Utilidades.botones(5, 330, 150, 40, "Información");
@@ -119,7 +125,7 @@ public class menu extends JFrame{
      * Método para mostrar un diálogo con información sobre los programadores.
      */
     public void mostrarDialogoAcercaDe() {
-        JDialog dialogo = new AcercaDeDialog(this, true);
+        JDialog dialogo = new menu.AcercaDeDialog(this, true);
         dialogo.setVisible(true);
     }
     

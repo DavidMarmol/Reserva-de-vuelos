@@ -7,7 +7,7 @@ anterior y utiliza un controlador (controlConsultas) para manejar las acciones d
 
 package vista;
 
-import utilerias.Utilidades;
+import Utilerias.Utilidades;
 import controlador.controlConsultas;
 import java.awt.Color;
 import javax.swing.ImageIcon;

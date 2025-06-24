@@ -16,7 +16,7 @@ Versión: 1.1
 
 package vista;
 
-
+import Utilerias.Utilidades;
 import controlador.controlClaseVuelo;
 import java.awt.Font;
 import javax.swing.ImageIcon;
@@ -24,7 +24,6 @@ import javax.swing.JButton;
 import javax.swing.JComboBox;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-import utilerias.Utilidades;
 
 /**
  * Ventana para seleccionar la clase de vuelo.

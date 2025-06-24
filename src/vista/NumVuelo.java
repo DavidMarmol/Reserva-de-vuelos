@@ -6,7 +6,7 @@ menú principal. Los elementos de la ventana están configurados para ser visibl
 
 package vista;
 
-
+import Utilerias.Utilidades;
 import controlador.controlNumVuelo;
 import java.awt.Color;
 import javax.swing.ImageIcon;
@@ -15,7 +15,6 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 import static javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE;
-import utilerias.Utilidades;
 
 /**
  * Clase para la ventana de registro de número de vuelo.

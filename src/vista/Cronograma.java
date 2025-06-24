@@ -16,8 +16,27 @@ Fecha:  7 de mayo del 2025
 Versión: 1.1
 */
 
+/*
+Este código crea una ventana para registrar cronogramas de vuelos en la aplicación de reserva de vuelos. 
+La ventana contiene etiquetas y campos de texto para ingresar fechas y horas de salida y llegada, 
+así como botones para registrar, limpiar y volver a la ventana anterior. Se utiliza un controlador 
+(controlCrono) para manejar las acciones de los botones.
+*/
+
+/*
+Proyecto final entrega final
+Clase de la ventana del registro del cronograma
+Integrantes: Anthony Brand - cod: 2357831
+             Jhon Suarez - cod: 2357574
+             Oscar Jimenez - cod: 2264419
+             Wilson Ospina - cod: 2264366
+Fecha:  3 de junio del 2024
+Versión: 5.0
+*/
+
 package vista;
 
+import Utilerias.Utilidades;
 import controlador.controlCrono;
 import java.awt.Color;
 import java.awt.Font;
@@ -26,7 +45,6 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
-import utilerias.Utilidades;
 
 /**
  * Ventana para registrar cronogramas de vuelos.

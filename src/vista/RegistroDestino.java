@@ -19,6 +19,7 @@ Versión: 1.1
 
 package vista;
 
+import Utilerias.Utilidades;
 import controlador.ControlRegistroDestino;
 import java.awt.Color;
 import java.awt.Font;
@@ -27,7 +28,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
-import utilerias.Utilidades;
+import static javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE;
 
 /**
  * Ventana de registro de destino para la aplicación.

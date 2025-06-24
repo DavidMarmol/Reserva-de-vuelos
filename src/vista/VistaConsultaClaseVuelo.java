@@ -6,7 +6,7 @@ combobox para seleccionar la clase de vuelo, un botón para realizar la búsqued
 */
 package vista;
 
-import utilerias.Utilidades;
+import Utilerias.Utilidades;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

@@ -5,13 +5,14 @@ destinos y un listado general. Los botones están configurados para realizar las
 
 package vista;
 
-import utilerias.Utilidades;
+import Utilerias.Utilidades;
 import controlador.controlListados;
 import java.awt.Color;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
+import static javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE;
 import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
 
 /**

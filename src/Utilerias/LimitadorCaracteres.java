@@ -1,4 +1,4 @@
-package utilerias;
+package Utilerias;
 
 /**
  * Clase para limitar el número de caracteres y el tipo de datos que se pueden introducir en un JTextComponent.

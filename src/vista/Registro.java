@@ -17,6 +17,7 @@ Versión: 1.1
 
 package vista;
 
+import Utilerias.Utilidades;
 import controlador.controlRegistro;
 import java.awt.Color;
 import java.awt.Font;
@@ -25,8 +26,8 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
+import static javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE;
 import reservadevuelos.ReservaDeVuelos;
-import utilerias.Utilidades;
 
 /**
  * Clase para la ventana de registro de tickets.

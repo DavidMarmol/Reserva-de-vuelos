@@ -16,6 +16,7 @@ Versión: 1.1
 
 package vista;
 
+import Utilerias.Utilidades;
 import controlador.ControlRegistroCliente;
 import java.awt.Color;
 import java.awt.Font;
@@ -25,7 +26,6 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 import static javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE;
-import utilerias.Utilidades;
 
 /**
  * Ventana para el registro de clientes.

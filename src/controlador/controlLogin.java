@@ -16,7 +16,7 @@ import vista.menu;
 
 /**
  *
- * @author OSCAR
+ * @author Anthony
  */
 public class controlLogin implements ActionListener, WindowListener{
   

@@ -32,14 +32,15 @@ import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
+import modelo.ModeloPdfGrafs;
 import org.jfree.chart.JFreeChart;
 import vista.Consultas;
+import vista.Graficas;
 import vista.ListaClientes;
 import vista.ListaDest;
 import vista.Listados;
 import vista.Registro;
 import vista.menu;
-
 
 /**
  * Controlador para el menú principal.
@@ -81,14 +82,25 @@ public class controlMenu implements ActionListener{
             Consultas co = new Consultas(); // Crea una nueva instancia de la ventana de consultas
         }
         
-
+        // Acción al presionar el botón "Gráficas"
+        if(e.getSource() == ctrmenu.jbGraficas){
+            ctrmenu.setVisible(false); // Oculta el menú actual
+            ctrmenu.dispose(); // Libera los recursos del menú actual
+            Graficas g = new Graficas(); // Crea una nueva instancia de la ventana de gráficas
+        }
         
         // Acción al presionar el botón "Salir"
         if(e.getSource() == ctrmenu.jbSalir){
             salir(); // Sale de la aplicación
         }
         
-
+        
+        if(e.getSource() == ctrmenu.jbPdfs){
+            Graficas g = new Graficas();
+            g.setVisible(false);
+            ModeloPdfGrafs mg = new ModeloPdfGrafs();
+            mg.createPDFWithCharts(g);
+        }
         
     }
     

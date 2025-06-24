@@ -5,8 +5,7 @@ La ventana contiene una tabla donde se muestran los datos de los destinos, como 
 
 package vista;
 
-
-import utilerias.Utilidades;
+import Utilerias.Utilidades;
 import controlador.controlListDest;
 import java.awt.Color;
 import java.io.BufferedReader;

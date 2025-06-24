@@ -1,6 +1,5 @@
 package vista;
 
-
 import controlador.control_inicio;
 import java.awt.Color;
 import java.awt.Font;
@@ -8,7 +7,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-import utilerias.Utilidades;
+import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
 
 /**
  * Ventana de inicio del sistema.

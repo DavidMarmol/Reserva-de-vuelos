@@ -5,7 +5,7 @@ Permite al usuario ingresar una cédula y al presionar el botón "Buscar", se bu
 
 package vista;
 
-import utilerias.Utilidades;
+import Utilerias.Utilidades;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

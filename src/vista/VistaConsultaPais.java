@@ -7,7 +7,7 @@ un botón para volver a la ventana de consultas principal.
 
 package vista;
 
-import utilerias.Utilidades;
+import Utilerias.Utilidades;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

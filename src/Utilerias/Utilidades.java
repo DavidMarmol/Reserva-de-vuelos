@@ -13,7 +13,7 @@ Fecha:  29 de abril del 2025
 Versión: 1.0
 */
 
-package utilerias;
+package Utilerias;
 
 import java.awt.Color;
 import java.awt.Font;

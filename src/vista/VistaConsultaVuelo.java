@@ -7,7 +7,7 @@ realizar la búsqueda, un área de texto para mostrar el resultado y un botón p
 
 package vista;
 
-import utilerias.Utilidades;
+import Utilerias.Utilidades;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

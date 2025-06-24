@@ -1,9 +1,10 @@
 package vista;
 
-import utilerias.LimitadorCaracteres;
+import Utilerias.LimitadorCaracteres;
 import controlador.controlLogin;
 import java.awt.Color;
 import java.awt.Font;
+import static java.awt.image.ImageObserver.ABORT;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -12,6 +13,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 import javax.swing.JToggleButton;
+import static javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE;
 
 /**
  * Ventana de login del sistema.

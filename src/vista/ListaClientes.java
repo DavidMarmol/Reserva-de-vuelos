@@ -16,7 +16,7 @@ Versión: 1.2
 
 package vista;
 
-import utilerias.Utilidades;
+import Utilerias.Utilidades;
 import controlador.controlListCli;
 import java.awt.Color;
 import java.io.BufferedReader;
